@@ -1,1 +1,1 @@
-https://github.com/KimiCafe/emmVRCPatcher/releases/download/Mod/emmVRC.dll
+https://github.com/KimiCafe/emmVRCPatcher/releases/download/untagged-690ae86a59d8bb211014/emmVRC.dll
